@@ -1,1 +1,1 @@
-# tictacto-client
+# tictactoe-client

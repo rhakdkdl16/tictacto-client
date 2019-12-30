@@ -1,11 +1,12 @@
-﻿public class ClientInfo
+﻿
+public class ClientInfo 
 {
     public readonly string roomId;
     public readonly string clientId;
 
-    public ClientInfo(string roomId, string clientId)
+    public ClientInfo(string roomid , string clientId)
     {
-        this.roomId = roomId;
+        this.roomId = roomid;
         this.clientId = clientId;
     }
 }
